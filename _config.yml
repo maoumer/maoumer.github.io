@@ -17,8 +17,8 @@ minimal: false              # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About Me"}
-  - {file: "cv.pdf", title: "Resume"} #icon: <i class="fa-solid fa-file"></i>
+  # - {file: "README.md", title: "About Me"}
+  # - {file: "cv.pdf", title: "Resume"} #icon: <i class="fa-solid fa-file"></i>
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mohammed.oumer@colorado.edu"}
